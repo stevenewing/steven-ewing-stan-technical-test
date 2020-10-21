@@ -1,0 +1,8 @@
+{
+  "extends": ["@promotively/eslint-config", "@promotively/eslint-config-react"],
+  "rules": {
+    "no-console": ["off"],
+    "max-nested-callbacks": ["off"],
+    "react/prop-types": ["off"]
+  }
+}

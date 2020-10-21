@@ -1,0 +1,3 @@
+{
+  "extends": ["@promotively/stylelint-config"]
+}
